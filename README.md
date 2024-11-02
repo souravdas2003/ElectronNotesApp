@@ -23,7 +23,7 @@ Ensure you have the following installed:
 
    Open your terminal and run:
    ```bash
-   git clone https://github.com/your-username/electron-notes-app.git
+   git clone https://github.com/souravdas2003/ElectronNotesApp.git
 
 2. **Navigate to the project directory**
 
